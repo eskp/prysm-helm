@@ -23,7 +23,7 @@ Make sure you have the following tools installed before beginning:
 Clone this repository and navigate to it
 
 ```
-git clone https://github.com/badinvestment/prysm-helm.git
+git clone https://github.com/eskp/prysm-helm.git
 cd prysm-helm
 ```
 
